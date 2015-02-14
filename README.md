@@ -20,7 +20,7 @@ Features
 
 Optimizations
 =============
-- Viewholders
+- Use viewholders to cache loaded views.
 
 Libraries
 =========
